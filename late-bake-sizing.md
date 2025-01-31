@@ -1,0 +1,29 @@
+---
+type: Concept
+maturity: Growing
+belongs_to: "[[build-local-community]]"
+related_to:
+  - "[[food-waste]]"
+  - "[[square-pos-sales-data]]"
+  - "[[kofi-asare]]"
+_organized: true
+---
+
+# Late Bake Sizing
+
+The rule we use to size the bakes after the morning: bake late in the day only what the last four same weekdays sold after that time, minus what is still on the shelf when the bake goes in.
+
+## How it works
+
+- For each late bake (11:30 baguettes and rolls, 13:00 baguettes on Saturdays), look at sales after that hour for the same weekday over the last four weeks in [[square-pos-sales-data]].
+- Take the median, not the average, so one busy day does not inflate it.
+- At bake time, count what is on the shelf and bake the difference, rounded down to a tray.
+- If the shelf runs empty before 15:30, that is acceptable; before 14:00 it is not, and the size goes up one tray the next week.
+
+## What it changed
+
+Introduced in May 2025 after the first month of the [[end-of-day-waste-log]]. The 13:00 bake was dropped from Tuesday to Friday, and the 11:30 bake went from about 48 to between 18 and 30 items. Bread waste roughly halved by the summer.
+
+## Limits
+
+It reacts slowly to change: after the lunch cut in February 2026 it took three weeks to catch up with lower midday footfall ([[savoury-lunch-trim]]). Weather and events (market days, the Christmas shopping evening) need a human override; Lena and Kofi agree it on Friday for the next week.

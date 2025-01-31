@@ -1,0 +1,34 @@
+---
+type: Opinion
+status: Active
+confidence: High
+belongs_to: "[[manage-money-and-cash-flow]]"
+related_to:
+  - "[[should-we-set-aside-vat-weekly]]"
+  - "[[value-added-tax]]"
+_organized: true
+---
+
+# VAT Money Is Not Our Money
+
+## Stance
+
+> [!info]
+> The VAT in our takings belongs to the tax office from the moment the customer pays. It should leave the current account every week and never be counted as cash, buffer or working capital.
+
+## Scope
+
+All VAT collected at Hollowgate, and any second site. Not input VAT reclaims, which are ours once the return is filed.
+
+## Why I Think This
+
+January 2025: we spent December's VAT on January's stock and wages and then had to pay 11,800 EUR we no longer had ([[overdraft-squeeze-january-2025]]). Since the weekly pot started on 2025-03-10 every quarter has been paid on time with money to spare ([[should-we-set-aside-vat-weekly]]). The general mechanism is in [[value-added-tax]]: a business collects it on behalf of the state.
+
+## What Would Change My Mind
+
+Nothing about the principle. The method could change: if Xero could sweep the exact output VAT automatically, I would drop the 9% rule of thumb.
+
+## Implications
+
+- The forecast shows the VAT pot separately and the buffer excludes it ([[cash-buffer]]).
+- When anyone (including me) says "we have 55,000 in the bank", the first question is how much of that is VAT.

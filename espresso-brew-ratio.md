@@ -1,0 +1,24 @@
+---
+type: Concept
+belongs_to: "[[manage-suppliers-and-costs]]"
+related_to:
+  - "[[coffee]]"
+  - "[[espresso-dial-in-notes]]"
+_organized: true
+---
+
+# Espresso Brew Ratio
+
+The weight of liquid espresso in the cup against the weight of dry coffee in the basket. Ours is 18 g in, 38 g out: about 1 to 2.1.
+
+## How we use it
+
+Dose and yield are fixed; time is the check and grind is the adjustment. If a shot runs fast (under 28 seconds) the grind goes finer; if slow (over 30) coarser. That keeps every barista adjusting the same thing ([[espresso-dial-in-notes]]).
+
+## Why 1 to 2.1
+
+Dev Sandhu set it for the Estuary blend at the [[ombrel-barista-training-2025-11-25]]. A shorter ratio tasted heavy in milk; a longer one thin as espresso. The old blend used 18 g to 36 g ([[house-espresso-blend-spec-2024]]).
+
+## Cost link
+
+18 g a shot means about 55 drinks per kg of beans after purging and waste. At 24.50 EUR/kg that is about 0.45 EUR of coffee per drink.

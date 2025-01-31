@@ -1,0 +1,36 @@
+---
+type: Opinion
+status: Active
+confidence: Medium
+belongs_to: "[[manage-suppliers-and-costs]]"
+related_to:
+  - "[[flour-supplier-review]]"
+  - "[[coffee-roaster-change]]"
+_organized: true
+---
+
+# Local Suppliers Are Worth A Premium Up To Ten Percent Of The Product Cost
+
+## Stance
+
+I will pay more for a nearby supplier when it makes the product better or the supply safer, as long as the extra stays under about 10% of the cost of the product it goes into. Above that, it needs a price rise behind it or it does not happen.
+
+## Scope
+
+Ingredients that customers can taste or that we name on the board: flour, coffee, eggs, fruit. Not packaging, cleaning products or anything where "local" changes nothing in the product.
+
+## Why I Think This
+
+- Tarnwick flour is 23% dearer per kg but adds about 0.09 EUR to a 1.12 EUR loaf, 8%, and the bread is clearly better ([[flour-supplier-review]]).
+- Ombrel adds about 0.08 EUR to a drink whose coffee costs 0.45 EUR, under 20% of the coffee but about 13% of the whole drink cost; covered by the 0.20 EUR rise ([[coffee-roaster-change]]).
+- Local suppliers have answered the phone at 05:00. Beatrix holds our buffer stock; Ada warns us about laying drops.
+
+## What Would Change My Mind
+
+- If a local supplier fails us twice in a year on delivery or quality.
+- If customers stop noticing. The test is whether the named supplier on the board sells the product, which for bread it clearly does.
+- If cash gets tight enough that 300 EUR a month matters more than the bread ([[thirteen-week-cash-flow-forecast]]).
+
+## Implications
+
+Ask "what does it add per unit sold?" before "what does it cost per kg?". The second number always looks worse.
