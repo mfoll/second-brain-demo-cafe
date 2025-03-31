@@ -1,0 +1,35 @@
+---
+type: Source
+source_type: Encyclopedia article
+url: https://en.wikipedia.org/wiki/Sourdough
+date_accessed: 2025-03-10
+licence: CC BY-SA 4.0
+belongs_to: "[[flour-supplier-review]]"
+related_to:
+  - "[[sourdough-and-fermentation]]"
+  - "[[levain]]"
+_organized: true
+---
+
+# Sourdough
+
+## Summary
+
+Wikipedia's overview of sourdough: a leaven made of wild yeasts and lactic acid bacteria, the starter that carries them, and the bread made with it. The fermentation produces lactic acid, which gives the sour flavour and helps the bread keep. The article also covers the history of starters and how the balance of yeast and bacteria depends on flour, temperature and feeding.
+
+## Why It Matters
+
+I reread it before the Tarnwick trials because Kofi said a stone-ground flour would "feed the starter differently". The point that stuck: the flour brings its own microbes and nutrients, so changing flour changes the levain, not just the dough. That is why the [[flour-bake-trial-2025-05-14]] ran two levain builds a week apart instead of one bake.
+
+## Key Details
+
+- Starter culture is a mix of yeast and lactobacilli; the ratio shifts with temperature and hydration.
+- Acidity is part of why sourdough stales more slowly, which matches what we saw with the Tarnwick loaves keeping an extra day.
+
+## Caveats
+
+General reference, not a bakery manual. Nothing in it is specific to our levain or schedule; for that see [[house-sourdough-recipe-card]].
+
+## Source Links
+
+- [Sourdough](https://en.wikipedia.org/wiki/Sourdough), English Wikipedia, CC BY-SA 4.0.
