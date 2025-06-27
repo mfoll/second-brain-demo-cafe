@@ -1,0 +1,27 @@
+---
+type: Concept
+belongs_to: "[[wholesale-to-cafes]]"
+related_to:
+  - "[[gross-profit-margin]]"
+  - "[[contribution-margin]]"
+_organized: true
+---
+
+# Wholesale Pricing Floor
+
+The lowest price at which we will sell a loaf wholesale: food and packaging cost plus the baker time it takes, divided by 0.65, so that gross margin is at least 35% after labour directly tied to the bake.
+
+## Why include baker time
+
+In the shop, baker hours are a fixed cost; the rota is the rota. Wholesale was different: the 15 hours a week it took were extra hours, often overtime. Leaving them out made wholesale look like it cleared the target when it did not. That was the main lesson of [[why-did-we-pause-wholesale-to-cafes]].
+
+## Worked example, white sourdough (900 g), October 2026
+
+- Flour, water, salt, levain: 0.74 EUR
+- Paper bag and label: 0.09 EUR
+- Baker time, about 3 minutes a loaf at full cost: 1.35 EUR
+- Total 2.18 EUR; floor = 2.18 / 0.65 = 3.35 EUR. The 2025 price was 2.90 EUR.
+
+## Limits
+
+Baker time per loaf assumes batches of at least 25. Smaller orders cost more per loaf and need a minimum order. Recost twice a year with the [[recipe-costing-sheet]].
