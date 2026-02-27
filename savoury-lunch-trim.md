@@ -1,0 +1,75 @@
+---
+type: Project
+status: Completed
+start: 2026-02-05
+end: 2026-05-22
+belongs_to: "[[menu-refresh-2026]]"
+related_to:
+  - "[[mateus-ferraz]]"
+  - "[[dominic-fairley]]"
+  - "[[square-pos-sales-data]]"
+has:
+  - "[[team-meeting-2026-02-05]]"
+  - "[[menu-review-2026-04-09]]"
+  - "[[lunch-margin-analysis-2026-01]]"
+  - "[[why-did-we-bring-soup-back-after-the-lunch-cut]]"
+_organized: true
+---
+
+# Savoury Lunch Trim
+
+Cutting the savoury lunch to stop it dragging the margin down, and then putting part of it back when it turned out lunch was holding up the rest of the day.
+
+## Outcome
+
+Lunch menu cut from 9 items to bakery only on 2026-02-23, then partly restored on 2026-04-20 with soup and two toasties.
+
+## Current State
+
+- Completed 2026-05-22 after four weeks of the restored lunch.
+- Lunch board now: soup of the day with bread (6.80 EUR), cheese and leek toastie (7.50), ham and mustard toastie (7.80). Made by [[mateus-ferraz]], about 12 hours a week of prep, 10:00 to 11:30.
+- Plated hot dishes stay off: shakshuka, the quiche plate and both salad bowls.
+- Restored lunch runs at about 64% gross margin against 51% for the old nine-item menu.
+- Weekday takings 11:30 to 14:30 are back to within 6% of the pre-cut level (May 2026).
+
+## Scope and Boundaries
+
+The savoury lunch only. Sandwiches in the chiller and sausage rolls on the counter are bakery items and were never part of the cut. Staff changes are described only as hours and roles.
+
+## Working Context
+
+The decision, at the [[team-meeting-2026-02-05]]: lunch made 51% gross margin against 71% for bakery and needed a cook for 30 hours a week ([[lunch-margin-analysis-2026-01]]). I decided to go to bakery only from 2026-02-23. Lena warned that lunch customers buy coffee and cake too; Dominic said plainly that the cut was his job. He was offered 14 hours on the counter, declined, and left on 2026-03-27 for a restaurant job.
+
+What happened: weekday takings between 11:30 and 14:30 fell 22% over the next six weeks, from an average of 815 EUR to 636 EUR a day ([[lunch-takings-six-week-review-2026-04]], from [[square-pos-sales-data]]). Coffee and cake fell with lunch, as Lena said. Regulars asked for the soup back at the counter almost daily ([[lunch-feedback-from-regulars]]).
+
+The partial reversal, at the [[menu-review-2026-04-09]]: soup and two toasties back from 2026-04-20, chosen because they need no hob service at lunch, share bread and cheese with the bakery and can be made by one trained person. Mateus asked to take it on. Recipes in [[soup-and-toastie-recipes-2026]].
+
+What I learned is in [[lunch-should-stay-small-but-not-disappear]]: I read the margin of the dish and missed the margin of the visit.
+
+## Next Actions
+
+- [x] Soup and toasties live 2026-04-20.
+- [x] Four-week check (2026-05-22).
+- [ ] October check of lunch margin against 64%.
+
+## Open Questions
+
+- [[why-did-we-bring-soup-back-after-the-lunch-cut]] (Answered)
+- [[should-we-drop-lunch-entirely]] (Superseded)
+
+## Important Notes
+
+- [[team-meeting-2026-02-05]]
+- [[menu-review-2026-04-09]]
+- [[lunch-takings-six-week-review-2026-04]]
+- [[lunch-menu-2025]]
+- [[lunch-cut-staff-briefing]]
+
+## Maintenance Log
+
+- 2026-05-22: Four-week check, lunch takings within 6% of pre-cut; closed.
+- 2026-04-20: Soup and two toasties back.
+- 2026-04-09: Menu review decides partial reversal.
+- 2026-03-27: Dominic Fairley's last day.
+- 2026-02-23: Lunch off; bakery only.
+- 2026-02-05: Decision at the team meeting.
