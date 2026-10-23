@@ -1,0 +1,64 @@
+---
+type: Source
+source_type: Internal spreadsheet
+date_accessed: 2026-10-19
+belongs_to: "[[build-local-community]]"
+related_to:
+  - "[[food-waste]]"
+  - "[[square-pos-sales-data]]"
+  - "[[waste-percentage-by-value]]"
+_organized: true
+---
+
+# End-of-Day Waste Log
+
+The daily record of what is left at closing, by product, kept since Tuesday 4 March 2025. Whoever closes fills in the paper sheet by the till; [[lena-marsh]] types it into the spreadsheet on Saturday and I review the monthly figure.
+
+## Summary
+
+End-of-day waste was 9% of bakery production by value in March 2025 and 3.5% in December 2025. It has stayed between 3.3% and 4.4% in 2026. The log is the evidence behind every change we made: smaller late bakes, the yesterday's bags and the Larder donations.
+
+## Why It Matters
+
+Before the log we guessed. Kofi thought waste was "maybe a tray of baguettes"; it was closer to 600 EUR a week at shelf price. Once we could see it by product and by day, we could match it against takings by hour in [[square-pos-sales-data]] and cut the right bakes ([[late-bake-sizing]]). It also set the starting point for the [[community-larder-donation-agreement]], and it feeds the Christmas plan: the 2025 log showed no waste on 23 and 24 December, which means we probably under-baked for walk-ins.
+
+## Key Details
+
+How it is recorded:
+
+- For each product: number baked that day (from the production sheet) and number left at closing, before anything goes to the Larder or into yesterday's bags.
+- Value at selling price, not cost. The method and the reason are in [[waste-percentage-by-value]].
+- Headline figure: value left at closing divided by value baked, bakery products only. Lunch items are logged separately and left out of the headline.
+
+Monthly headline, bakery waste as % of production by value:
+
+| Month | Waste % | About EUR a week at shelf price |
+|---|---|---|
+| 2025-03 | 9.0 | 610 |
+| 2025-04 | 7.8 | 530 |
+| 2025-05 | 6.9 | 470 |
+| 2025-06 | 6.1 | 420 |
+| 2025-07 | 5.8 | 400 |
+| 2025-08 | 5.2 | 340 |
+| 2025-09 | 4.6 | 310 |
+| 2025-10 | 4.1 | 285 |
+| 2025-11 | 3.8 | 270 |
+| 2025-12 | 3.5 | 255 |
+| 2026-01 | 3.9 | 250 |
+| 2026-02 | 4.4 | 300 |
+| 2026-03 | 3.7 | 265 |
+| 2026-06 | 3.4 | 250 |
+| 2026-09 | 3.3 | 245 |
+
+What the product lines showed in March 2025: bread about 60% of the waste value, viennoiserie 30%, cakes 10%. Saturday and Tuesday were the worst days; Sunday the best, because we close at 14:00.
+
+## Caveats
+
+- August to mid-November 2025 ran on a hired oven with smaller bakes, which flatters those months.
+- February 2026 rose because the lunch cut changed footfall after 11:30 and we were slow to shrink the 11:30 bake ([[savoury-lunch-trim]]).
+- Counts are by eye at closing; a 2025 spot check by Lena found the sheet within about 5% of a careful count.
+- Yesterday's bags and Larder donations recover some of this value or give it a use; the headline does not net them off.
+
+## Source Location
+
+Paper sheets in the folder by the till (kept three months). Spreadsheet "Waste log" in the shared drive under Operations/Waste, one tab per month.
