@@ -12,6 +12,8 @@ A demo Second Brain: about 530 linked Markdown notes holding the working memory 
 
 ![Hollowgate Bakehouse Brain in Brain Graph, coloured by the Project or Responsibility each note rolls up to](assets/hollowgate-bakehouse-brain-graph.png)
 
+**[Explore this vault in the live demo](https://mfoll.github.io/brain-graph-demo/?vault=hollowgate-bakehouse-brain)**: its map in Brain Graph, in your browser, with nothing to install.
+
 > [!warning]
 > Everything about the bakehouse is fictional: Hollowgate Bakehouse, the town of Brackenmouth, every person, supplier, customer, the council, the bank, the accountants, the prices and the figures. Any resemblance to real people or organisations is accidental. Only the Sources marked as encyclopedia articles or tool documentation are real.
 
