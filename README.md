@@ -27,11 +27,11 @@ The vault was deployed from the [Second Brain template](https://github.com/mfoll
 | Memory | About 180 Sources, 50 Events, 35 Questions, 30 Concepts, 15 Opinions, 14 Recaps, 40 people. |
 | Real material | About 60 Sources are real Wikipedia articles on food safety, baking, coffee and small-business finance, cited with title and URL and summarised in our own words. Their "Why It Matters" sections describe how the fictional bakehouse uses them. |
 | Operations | `AGENTS.md`, Type notes, Procedures, Skills and ADRs from the template, unchanged except for the deployment steps. |
-| History | Git history from January 2025 to October 2026, one commit per month of captures. |
+| History | Git history from January 2025 to October 2026, one commit for each month that had captures. |
 
 ## Open it
 
-- **Any Markdown editor.** Clone the repository and open the folder. Start from [[vault]].
+- **Any Markdown editor.** Clone the repository and open the folder; notes sit flat at the root by design. Start from [vault](vault.md).
 - **[Tolaria](https://tolaria.md/).** Open the folder as a vault for typed sidebars, relationship panels and saved views.
 - **[Brain Graph](https://github.com/mfoll/brain-graph).** See the whole vault as a map coloured by project:
 
@@ -39,7 +39,7 @@ The vault was deployed from the [Second Brain template](https://github.com/mfoll
   npx github:mfoll/brain-graph path/to/second-brain-demo-cafe
   ```
 
-- **A coding agent.** Run Claude Code, Codex or Gemini CLI in the folder. They read [[AGENTS]] (through `CLAUDE.md` and `GEMINI.md` where needed) and follow the vault's Procedures.
+- **A coding agent.** Run Claude Code, Codex or Gemini CLI in the folder. They read [AGENTS](AGENTS.md) (through `CLAUDE.md` and `GEMINI.md` where needed) and follow the vault's Procedures.
 
 ## Try this
 
@@ -47,19 +47,19 @@ Each question has a known answer in the vault, so you can check what an agent fi
 
 | Ask | Where the answer lives |
 | --- | --- |
-| Why did we bring soup back after cutting the lunch menu? | A team meeting cut lunch to bakery only on 2026-02-05; a menu review on 2026-04-09 partly reversed that. See [[savoury-lunch-trim]], [[menu-review-2026-04-09]] and the daily Recap of 2026-04-09. |
-| Have we decided whether to open a second site? | Still open, with the accountant and the head baker both urging caution. See [[should-we-open-a-second-site]]. |
-| Why did we lose a point at the 2025 hygiene inspection? | Cooling records and a blocked hand-wash sink. See [[environmental-health-inspection-2025-06-18]]. |
-| How much more are we paying for butter than in 2025? | Tracked month by month. See [[butter-price-tracker]] and [[dairy-contract-renegotiation]]. |
-| Why do we take deposits on Christmas preorders? | A January cash squeeze and the forecast built after it. See [[christmas-preorders-2026]] and [[thirteen-week-cash-flow-forecast]]. |
-| Why did we stop supplying other cafés with bread? | An oven failure, thin margins and baker hours. See [[why-did-we-pause-wholesale-to-cafes]]. |
+| Why did we bring soup back after cutting the lunch menu? | A team meeting cut lunch to bakery only on 2026-02-05; a menu review on 2026-04-09 partly reversed that. See [savoury-lunch-trim](savoury-lunch-trim.md), [menu-review-2026-04-09](menu-review-2026-04-09.md) and the daily Recap of 2026-04-09. |
+| Have we decided whether to open a second site? | Still open, with the accountant and the head baker both urging caution. See [should-we-open-a-second-site](should-we-open-a-second-site.md). |
+| Why did we lose a point at the 2025 hygiene inspection? | Cooling records and a blocked hand-wash sink. See [environmental-health-inspection-2025-06-18](environmental-health-inspection-2025-06-18.md). |
+| How much more are we paying for butter than in 2025? | Tracked month by month. See [butter-price-tracker](butter-price-tracker.md) and [dairy-contract-renegotiation](dairy-contract-renegotiation.md). |
+| Why do we take deposits on Christmas preorders? | A January cash squeeze and the forecast built after it. See [christmas-preorders-2026](christmas-preorders-2026.md) and [thirteen-week-cash-flow-forecast](thirteen-week-cash-flow-forecast.md). |
+| Why did we stop supplying other cafés with bread? | An oven failure, thin margins and baker hours. See [why-did-we-pause-wholesale-to-cafes](why-did-we-pause-wholesale-to-cafes.md). |
 
 Workflows to try with an agent:
 
 - **Resume a project:** "Resume the Second Site Decision."
 - **Process the Inbox:** about eight raw captures from the last week of October 2026 have `_organized: false`; each has an obvious home.
 - **Ingest a source:** give any Wikipedia article on bread, coffee, food safety or small-business finance and ask where it belongs.
-- **Lint the vault:** the audits should find one unresolved link and one homeless Concept, both left in on purpose.
+- **Lint the vault:** the audits should report one link to a missing note and one Concept that belongs to nothing, both left in on purpose. Informational lines, such as external contacts without a parent, are expected.
 
 ## Scope and privacy
 
@@ -67,7 +67,7 @@ The fictional bakehouse's daily operations, staff rota, suppliers, food safety a
 
 ## Template updates
 
-The vault was deployed from the template on 2026-10-23. Later template improvements can be ported with [[upgrade-existing-vault-from-template|Upgrade an Existing Vault From the Template]], as a reviewed change: an agent proposes each port, and a person approves it. Never run it unattended. A vault in use is expected to differ from the template on purpose, in its ADRs, Procedures, Skills and instructions.
+The vault was deployed from the template on 2026-10-23. Later template improvements can be brought in with [Upgrade an Existing Vault From the Template](upgrade-existing-vault-from-template.md), as a reviewed change: an agent proposes each change, and a person approves it. Never run it unattended. A vault in use is expected to differ from the template on purpose, in its ADRs, Procedures, Skills and instructions.
 
 ## How it was made
 
@@ -75,7 +75,7 @@ An AI agent drafted the world specification (the bakehouse, people, projects, ti
 
 ## Storage and backup
 
-Git history in this repository. A demo that edits notes can be reset with `git checkout .` and `git clean -fd`.
+The notes are plain files, and their history is this Git repository. To undo edits made while trying the demo, run `git checkout .`; `git clean -n` lists any new files, which `git clean -f` would delete.
 
 ## More example vaults
 
